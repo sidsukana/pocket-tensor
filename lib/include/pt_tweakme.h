@@ -9,7 +9,7 @@
 #define PT_TWEAKME_H
 
 // Enable double precision (slower, disabled by default):
-#define PT_DOUBLE_ENABLE 0
+#define PT_DOUBLE_ENABLE 1
 
 // Enable fused multiply add (faster, disabled by default):
 #define PT_FMADD_ENABLE 0
